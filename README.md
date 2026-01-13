@@ -1,2 +1,2 @@
-# this is amazon front
+# This is a layout 
 this a code of amazon layout 
